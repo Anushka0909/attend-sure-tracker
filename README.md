@@ -1,4 +1,5 @@
 
+Student Attendence Tracker
 # Student Attendance Tracker
 
 This repository contains a CI/CD pipeline setup for the Student Attendance Tracker web application with monitoring using Prometheus and Grafana.
@@ -85,7 +86,6 @@ Initial Grafana login:
 - Password: admin
 
 ## Common Commands
-
 See the Makefile for common commands:
 - `make build`: Build the application containers
 - `make run`: Start all services
